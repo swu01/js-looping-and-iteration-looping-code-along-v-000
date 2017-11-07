@@ -11,4 +11,8 @@ function tailsNeverFails() {
         i ++;
     }
     return `You got ${i} tails in a row!`;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 088b424b632c9b2790f2c8a70780be62f20775a1
